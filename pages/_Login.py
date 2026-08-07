@@ -1,10 +1,15 @@
 import streamlit as st
 
-st.title("🔐 Login")
+st.title("ℹ️ About")
 
-email = st.text_input("Email")
+st.write("""
+AI Campus Assistant
 
-password = st.text_input("Password", type="password")
+Built using
 
-if st.button("Login"):
-    st.success("Login feature coming tomorrow!")
+- Streamlit
+- Gemini AI
+- FAISS
+- LangChain
+- SQLite
+""")

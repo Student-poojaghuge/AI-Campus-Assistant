@@ -4,4 +4,5 @@ __pycache__/
 *.pyc
 *.pyo
 *.db
-.ipynb_checkpoints/
+.ipynb_checkpoints/venv/
+__pycache__/

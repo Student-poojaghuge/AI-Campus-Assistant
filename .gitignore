@@ -6,3 +6,4 @@ __pycache__/
 *.db
 .ipynb_checkpoints/venv/
 __pycache__/
+uploads/*.pdf
